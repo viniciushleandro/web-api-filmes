@@ -23,7 +23,13 @@ public class FilmeController : ControllerBase
         _mapper = mapper;
     }
 
+    /// <summary>
+    /// Adiciona um filme ao banco de Dados
+    /// </summary>
+    /// <param name="filmeDto"></param>
+    /// <returns></returns>
     [HttpPost]
+    [ProducesResponseType(StatusCodes.Status201Created)]
     public IActionResult AdicionaFilme([FromBody] CreateFilmeDto filmeDto)
     {
         Filme filme = _mapper.Map<Filme>(filmeDto);

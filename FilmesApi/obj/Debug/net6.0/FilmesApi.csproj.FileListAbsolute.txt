@@ -92,3 +92,5 @@ C:\web-api\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Newtons
 C:\web-api\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\web-api\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.sourcelink.json
+C:\web-api\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
